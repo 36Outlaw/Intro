@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sajjadhossainmahir
+- 👋 Hi, I’m Sajjad Hossain
+- ✒️ I'm studying in Bachelor of Science in Computer Science and Engineering at Port City International University
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning C/C++,Java,DBMS,Python
 - 📫 How to reach me 
